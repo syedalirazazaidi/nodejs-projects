@@ -1,0 +1,17 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "a nodejs projects",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs"
+  ],
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "author": "ali raza",
+  "license": "ISC"
+}
