@@ -13,5 +13,8 @@
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
   },
   "author": "ali raza",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
