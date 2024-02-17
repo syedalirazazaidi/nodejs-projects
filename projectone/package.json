@@ -20,6 +20,7 @@
     "prettier": "^3.2.5"
   },
   "dependencies": {
+    "@uploadthing/react": "^6.2.3",
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
@@ -28,6 +29,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.3.0",
     "mongoose": "^8.1.2",
-    "mongoose-aggregate-paginate-v2": "^1.0.7"
+    "mongoose-aggregate-paginate-v2": "^1.0.7",
+    "uploadthing": "^6.4.0"
   }
 }
